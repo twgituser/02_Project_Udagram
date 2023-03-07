@@ -2,5 +2,9 @@
 	{
 		"ParameterKey": "ProjectName",
 		"ParameterValue": "Udagram"
+	},
+	{
+		"ParameterKey": "AmiImageId",
+		"ParameterValue": "ami-0263e4deb427da90e"
 	}
 ]

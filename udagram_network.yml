@@ -1,8 +1,7 @@
-Description: >
-  Terry Welch - Template file to deploy network components for Udagram Project, 
-  includes Parameters, Resources including VPC, Subnets, Internet Gateways, NAT Gateways and Route Tables
-  NB: Where I have used defaults in parameters, I have not added the to the params file, the params file can be
-  used to change them later if required.
+Description: |-
+  Terry Welch - Template file to deploy network components for Udagram Project.
+  Includes Parameters, Resources including VPC, Subnets, Internet Gateways, NAT Gateways and Route Tables.
+  Outputs references that can be used in other templates.
 
 Parameters:
   ProjectName:
